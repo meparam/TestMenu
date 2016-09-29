@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\layout\\main.xml"
+    }
+]

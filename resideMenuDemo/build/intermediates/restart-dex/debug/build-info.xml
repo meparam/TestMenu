@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="517393545425767"
+    verifier="DEPENDENCY_CHANGED" >
+
+    <task
+        name="javac"
+        duration="346" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="64" />
+    <task
+        name="verifier"
+        duration="25" />
+
+    <artifact
+        location="F:\ResideMenuDemo\resideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-library-2.4.0_79dcd070c264009e3f3913f3a0dd228bdfbeff96\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\ResideMenuDemo\resideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="516742359874350" >
+        <artifact
+            location="F:\ResideMenuDemo\resideMenuDemo\build\outputs\apk\resideMenuDemo-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="517393545425767"
+        verifier="DEPENDENCY_CHANGED" >
+        <artifact
+            location="F:\ResideMenuDemo\resideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-library-2.4.0_79dcd070c264009e3f3913f3a0dd228bdfbeff96\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\ResideMenuDemo\resideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

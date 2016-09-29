@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar_menu_on.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\title_bar_menu_on.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\frame.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_on.9.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\button_on.9.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_profile.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\icon_profile.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.9.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_settings.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\icon_settings.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_background.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\menu_background.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.9.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\exploded-aar\\ResideMenuDemo\\resideMenu\\unspecified\\res\\drawable-hdpi-v4\\shadow.9.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar_menu.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\title_bar_menu.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_calendar.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "F:\\ResideMenuDemo\\resideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\ResideMenuDemo\\resideMenuDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
